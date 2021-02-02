@@ -1,4 +1,4 @@
-# This repository is my small experiments about JS testing.
+## This repository is my small experiments about JS testing.
 
 - This repository is based on the following youtube video tutorial;
 
